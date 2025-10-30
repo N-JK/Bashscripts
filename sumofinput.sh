@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Ask how many numbers
 read -p "Enter number of elements: " n
 
