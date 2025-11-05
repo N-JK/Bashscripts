@@ -10,4 +10,7 @@ do
     if (( num % 3 == 0 && num % 5 != 0 )); then
         sum=$((sum + num))
     fi
+done
+
+#Display the result
 
