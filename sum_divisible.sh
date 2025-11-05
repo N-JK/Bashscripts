@@ -13,4 +13,4 @@ do
 done
 
 #Display the result
-
+echo "The sum of numberbetween 50 and 100 that are divisible by 3 but not by 5 is: $sum"
