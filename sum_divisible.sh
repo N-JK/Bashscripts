@@ -5,4 +5,6 @@
 sum=0
 
 #Loop through numbers from 50 to 100
-
+for (( num=50; num<=100; num++ ))
+do
+    if (( num % 3 == 0 && num % 5 != 0 )); then
