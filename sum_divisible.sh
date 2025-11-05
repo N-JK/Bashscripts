@@ -4,4 +4,5 @@
 
 sum=0
 
+#Loop through numbers from 50 to 100
 
