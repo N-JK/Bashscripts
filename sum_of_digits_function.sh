@@ -18,3 +18,6 @@ sum_of_digits() {
 
 #main script
 read -p "Enter a number: " number
+
+#Call the function and store the result
+
