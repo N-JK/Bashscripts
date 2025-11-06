@@ -22,3 +22,5 @@ read -p "Enter a number: " number
 #Call the function and store the result
 result=$(sum_of_digits $number)
 
+#Display the result
+echo "The sum of digits of $number is: $result"
