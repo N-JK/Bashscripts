@@ -9,3 +9,5 @@ sum_of_digits() {
     while [ $num -gt 0 ]
     do
         digit=$((num%10))  #extract last digit
+        sum=$((sum + digit)) #add to sum
+
