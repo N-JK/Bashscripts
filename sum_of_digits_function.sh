@@ -20,4 +20,5 @@ sum_of_digits() {
 read -p "Enter a number: " number
 
 #Call the function and store the result
+result=$(sum_of_digits $number)
 
