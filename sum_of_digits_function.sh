@@ -16,4 +16,5 @@ sum_of_digits() {
     echo $sum                  #return the sum
 }
 
-
+#main script
+read -p "Enter a number: " number
