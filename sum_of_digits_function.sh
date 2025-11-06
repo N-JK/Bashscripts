@@ -11,3 +11,5 @@ sum_of_digits() {
         digit=$((num%10))      #extract last digit
         sum=$((sum + digit))   #add to sum
         num=$((num/10))        #Remove the last digit
+    done
+
