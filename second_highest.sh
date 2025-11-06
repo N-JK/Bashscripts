@@ -23,4 +23,6 @@ do
     if [ $num -gt highest ]; then
         second_highest=$highest
         highest=$num
-    
+    elif [ $num -gt $second_highest ] && [ $num -ne $ highest ]; then
+        second_highest=$num
+    fi
