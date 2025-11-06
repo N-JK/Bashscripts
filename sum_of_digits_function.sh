@@ -13,3 +13,7 @@ sum_of_digits() {
         num=$((num/10))        #Remove the last digit
     done
 
+    echo $sum                  #return the sum
+}
+
+
