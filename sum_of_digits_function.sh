@@ -8,6 +8,6 @@ sum_of_digits() {
 
     while [ $num -gt 0 ]
     do
-        digit=$((num%10))  #extract last digit
-        sum=$((sum + digit)) #add to sum
-
+        digit=$((num%10))      #extract last digit
+        sum=$((sum + digit))   #add to sum
+        num=$((num/10))        #Remove the last digit
