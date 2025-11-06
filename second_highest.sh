@@ -31,4 +31,5 @@ done
 #Display results
 echo "-------------------------------------"
 echo "Highest number: $highest"
-
+echo "Second highest number: $second_highest"
+echo "-------------------------------------"
