@@ -15,4 +15,12 @@ read -p "Enter number 1: " num
 highest=$num
 second_highest=$num
 
+#Loop to read remaining numbers
+for (( i=2; i<=count; i++ ))
+do
+    read -p "Enter number $i: " num
 
+    if [ $num -gt highest ]; then
+        second_highest=$highest
+        highest=$num
+    
