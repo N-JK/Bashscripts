@@ -30,3 +30,5 @@ done
 
 #Display results
 echo "-------------------------------------"
+echo "Highest number: $highest"
+
