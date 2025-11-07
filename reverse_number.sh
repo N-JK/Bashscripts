@@ -18,4 +18,5 @@ reverse_number(){
 #read input from useer
 read -p "Enter a number: " number
 
+result = $(reversed_number $number)
 
