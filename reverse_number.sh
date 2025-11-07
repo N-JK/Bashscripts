@@ -14,3 +14,8 @@ reverse_number(){
 
     echo "$rev"
 }
+
+#read input from useer
+read -p "Enter a number: " number
+
+
