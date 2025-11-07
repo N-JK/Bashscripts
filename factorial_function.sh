@@ -11,4 +11,4 @@ do
     fact=$((fact * i))
 done
 
-echo "Factorial of $num i"
+echo "Factorial of $num is: $"
