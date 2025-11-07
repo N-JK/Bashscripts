@@ -12,4 +12,5 @@ reverse_number(){
         num=$((num/10))
     done
 
+    echo "$rev"
 }
