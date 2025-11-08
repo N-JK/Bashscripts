@@ -12,4 +12,6 @@ file2=$2
 
 #check if both files exist
 if [! -f "$file1" ] || [ ! -f "$file2" ]; then
-    
+    echo "Error: one or both files do not exist."
+    exit 1
+ 
