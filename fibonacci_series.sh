@@ -12,4 +12,6 @@ for (( i=0; i<=num; i++ ))
 do
     echo -num "$a "
     fn=$((a+b))
-
+    a=$b
+    b=$fn
+d
