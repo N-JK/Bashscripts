@@ -16,4 +16,4 @@ do
     b=$fn
 done
 
-ec
+echo
