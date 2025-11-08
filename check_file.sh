@@ -10,4 +10,6 @@ fi
 file1=$1
 file2=$2
 
-
+#check if both files exist
+if [! -f "$file1" ] || [ ! -f "$file2" ]; then
+    
