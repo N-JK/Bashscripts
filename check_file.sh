@@ -18,3 +18,6 @@ fi
 
 #compare the files
 
+if cmp -s "$file1" "$file2"; then
+    echo "Both files have the same content."
+
