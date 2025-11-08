@@ -20,4 +20,5 @@ fi
 
 if cmp -s "$file1" "$file2"; then
     echo "Both files have the same content."
-
+    rm "$file2"
+    echo "File 'file2' has been deleted."
