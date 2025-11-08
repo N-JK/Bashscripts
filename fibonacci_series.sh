@@ -14,4 +14,6 @@ do
     fn=$((a+b))
     a=$b
     b=$fn
-d
+done
+
+
