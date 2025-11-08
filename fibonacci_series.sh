@@ -11,3 +11,5 @@ echo "Fibanocci series upto $num terms: "
 for (( i=0; i<=num; i++ ))
 do
     echo -num "$a "
+    fn=$((a+b))
+
