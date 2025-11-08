@@ -6,3 +6,6 @@ read -p "Enter the number of terms" num
 a=0
 b=1
 
+echo "Fibanocci series upto $num terms: "
+
+
