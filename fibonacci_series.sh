@@ -3,3 +3,6 @@
 #Program to generate Fibonacci series
 read -p "Enter the number of terms" num
 
+a=0
+b=1
+
