@@ -32,6 +32,9 @@ do
 	    ;;
         5)
 	    echo "Exiting... Goodbye!"
+	    exit 0
+	    ;;
+	
 
 
 
