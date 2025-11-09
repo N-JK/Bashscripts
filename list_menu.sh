@@ -26,6 +26,8 @@ do
 	    echo "Current Date and time:"
 	    date
 	    ;;
-	4
+        4)
+	    echo "Users currently logged in:"
+
 
 
