@@ -38,9 +38,5 @@ do
 	    echo "Invalid choice! Please choose between 1-5."
 	    ;;
     esac
-
-	
-
-
-
+done
 
