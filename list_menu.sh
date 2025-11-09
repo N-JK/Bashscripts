@@ -8,4 +8,9 @@ do
     echo "2. print working directory"
     echo "3. Display Date"
     echo "4. Display user logged in"
-    echo "5. Exit "
+    echo "5. Exit"
+    echo "**************"
+    echo -n  "Enter your choice: "
+    read choice
+
+
