@@ -34,6 +34,8 @@ do
 	    echo "Exiting... Goodbye!"
 	    exit 0
 	    ;;
+	*)
+	    echo ""
 	
 
 
