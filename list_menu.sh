@@ -22,6 +22,7 @@ do
 	    echo "Current working directory: "
 	    pwd
 	    ;;
-	3
+        3) 
+	    echo "Current Date and time:"
 
 
