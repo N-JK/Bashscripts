@@ -28,6 +28,9 @@ do
 	    ;;
         4)
 	    echo "Users currently logged in:"
+	    who
+	    ;;
+	5
 
 
 
