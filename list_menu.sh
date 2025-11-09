@@ -30,7 +30,9 @@ do
 	    echo "Users currently logged in:"
 	    who
 	    ;;
-	5
+        5)
+	    echo "Exiting... Goodbye!"
+
 
 
 
