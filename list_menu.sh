@@ -35,7 +35,7 @@ do
 	    exit 0
 	    ;;
 	*)
-	    echo ""
+	    echo "Invalid choice! Please choose between 1-5."
 	
 
 
