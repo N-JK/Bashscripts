@@ -16,3 +16,6 @@ do
     case $choice in
         1)
 	    echo "Listing current directory:"
+	    ls
+	    ;;
+	2
