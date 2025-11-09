@@ -20,4 +20,8 @@ do
 	    ;;
         2)
 	    echo "Current working directory: "
+	    pwd
+	    ;;
+	3
+
 
