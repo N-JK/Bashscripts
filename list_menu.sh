@@ -18,4 +18,6 @@ do
 	    echo "Listing current directory:"
 	    ls
 	    ;;
-	2
+        2)
+	    echo "Current working directory: "
+
