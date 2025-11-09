@@ -24,5 +24,8 @@ do
 	    ;;
         3) 
 	    echo "Current Date and time:"
+	    date
+	    ;;
+	4
 
 
