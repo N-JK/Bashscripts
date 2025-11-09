@@ -13,4 +13,6 @@ do
     echo -n  "Enter your choice: "
     read choice
 
-
+    case $choice in
+        1)
+	    echo "Listing current directory:"
