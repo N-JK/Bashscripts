@@ -11,3 +11,5 @@ for file in *; do
 	    echo "$file already has execute permission."
 	fi
     fi
+done
+
