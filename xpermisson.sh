@@ -10,3 +10,4 @@ for file in *; do
 	else
 	    echo "$file already has execute permission."
 	fi
+    fi
