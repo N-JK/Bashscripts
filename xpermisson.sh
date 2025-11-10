@@ -13,3 +13,4 @@ for file in *; do
     fi
 done
 
+echo "Done."
