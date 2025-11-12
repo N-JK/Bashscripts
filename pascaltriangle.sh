@@ -31,4 +31,5 @@ do
     #print spaces for alingment
     for (( space=rows; space>n; space-- ))
     do
-	 echo -m " "   
+	 echo -m " "
+    done	 
