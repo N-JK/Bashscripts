@@ -8,5 +8,8 @@ factorial() {
     do
         fact=$((fact * i))
     done
-    echo $fact    
+    echo $fact
 }
+
+#function to calculate ncr(combination)
+
