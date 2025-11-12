@@ -35,4 +35,5 @@ do
     done
 
     #print Numbers
-        
+    for (( r=0; r<=n; r++ ))
+    do	    
