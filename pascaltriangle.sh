@@ -36,4 +36,8 @@ do
 
     #print Numbers
     for (( r=0; r<=n; r++ ))
-    do	    
+    do
+        echo -n "$(nCr $n $r)   "
+    done
+    echo
+done    
