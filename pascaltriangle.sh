@@ -12,4 +12,9 @@ factorial() {
 }
 
 #function to calculate ncr(combination)
-
+nCr() {
+    n=$1
+    r=$2
+    num=$(factorial $n)
+    den1=$(factorial $r)
+}
