@@ -18,4 +18,5 @@ nCr() {
     num=$(factorial $n)
     den1=$(factorial $r)
     den2=$(factorial $((n-r)))
+    result=$((num / (den1 * den2)))
 }
