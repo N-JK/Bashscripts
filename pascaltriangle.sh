@@ -4,7 +4,7 @@
 factorial() {
     num=$1
     fact=1
-    for(( i=1;i<=num;i++ ))
+    for(( i=1; i<=num; i++ ))
     do
         fact=$((fact * i))
     done
@@ -31,7 +31,7 @@ do
     #print spaces for alingment
     for (( space=rows; space>n; space-- ))
     do
-	 echo -m " "
+	 echo -n "  "
     done
 
     #print Numbers
