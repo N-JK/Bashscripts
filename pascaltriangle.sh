@@ -28,4 +28,5 @@ echo "pascal's triangle of $rows rows: "
 
 for (( n=0; n<rows; n++ ))
 do 
-    
+    #print spaces for alingment
+     
