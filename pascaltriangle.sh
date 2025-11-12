@@ -32,4 +32,7 @@ do
     for (( space=rows; space>n; space-- ))
     do
 	 echo -m " "
-    done	 
+    done
+
+    #print Numbers
+        
