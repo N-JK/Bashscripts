@@ -21,3 +21,8 @@ nCr() {
     result=$((num / (den1 * den2)))
     echo $result
 }
+
+#Main Script
+read -p "Enter number of rows: " rows
+echo "pascal's triangle of $rows rows: "
+
