@@ -19,4 +19,5 @@ nCr() {
     den1=$(factorial $r)
     den2=$(factorial $((n-r)))
     result=$((num / (den1 * den2)))
+    echo $result
 }
