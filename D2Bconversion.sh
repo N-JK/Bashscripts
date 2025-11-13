@@ -17,5 +17,5 @@ else
         rem = $((n%2))
 	binary="$rem$binary"
 	n=$((n/2))
-    
+    done
 
