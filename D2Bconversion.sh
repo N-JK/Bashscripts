@@ -9,4 +9,5 @@ binary = ""
 
 n=$num
 
+if [ $n -eq 0 ]; then
 
