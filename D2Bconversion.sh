@@ -18,4 +18,6 @@ else
 	binary="$rem$binary"
 	n=$((n/2))
     done
+fi
+
 
