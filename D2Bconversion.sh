@@ -7,3 +7,6 @@ read -p "Enter a decimal number: " num
 
 binary = ""
 
+n=$num
+
+
