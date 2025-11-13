@@ -15,3 +15,5 @@ else
     while [ $n -gt 0 ]
     do
         rem = $((n%2))
+	binary="$rem$binary"
+
