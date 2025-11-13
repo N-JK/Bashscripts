@@ -20,5 +20,5 @@ else
     done
 fi
 
-echo "binary equivalent of "
+echo "binary equivalent of $num is:  "
 
