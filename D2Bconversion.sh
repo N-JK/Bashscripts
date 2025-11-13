@@ -20,5 +20,5 @@ else
     done
 fi
 
-echo ""
+echo "binary equivalent of "
 
