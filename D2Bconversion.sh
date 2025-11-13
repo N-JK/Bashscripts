@@ -13,3 +13,4 @@ if [ $n -eq 0 ]; then
     binary=0
 else
     while [ $n -gt 0 ]
+    do
