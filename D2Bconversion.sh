@@ -5,7 +5,7 @@
 
 read -p "Enter a decimal number: " num
 
-binary = ""
+binary=""
 
 n=$num
 
@@ -14,9 +14,9 @@ if [ $n -eq 0 ]; then
 else
     while [ $n -gt 0 ]
     do
-        rem = $((n%2))
+        rem=$((n % 2))
 	binary="$rem$binary"
-	n=$((n/2))
+	n=$((n / 2))
     done
 fi
 
