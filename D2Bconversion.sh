@@ -14,3 +14,4 @@ if [ $n -eq 0 ]; then
 else
     while [ $n -gt 0 ]
     do
+        rem = $((n%2))
